@@ -3,7 +3,7 @@ import { set_sidebar } from "./utils/auto_sidebar.mjs";	// 改成自己的路径
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "/vitepress2.0",
+  // base: "/vitepress2.0",
   title: "星梦启航",
   description: "A VitePress Site",
   head: [
