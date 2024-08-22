@@ -7,11 +7,11 @@ export default defineConfig({
   title: "星梦启航",
   description: "A VitePress Site",
   head: [
-    ['link', { rel: 'icon', href: '/image/lemon.png' }]
+    ['link', { rel: 'icon', href: '/vitepress2.0/image/lemon.png' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/image/lintongxue.jpg',
+    logo: '/vitepress2.0/image/lintongxue.jpg',
     nav: [
       {
         text: 'Home',
