@@ -3,7 +3,7 @@ import { set_sidebar } from "./utils/auto_sidebar.mjs";	// 改成自己的路径
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: "vitepress2.0",
+  base: "/vitepress2.0",
   title: "星梦启航",
   description: "A VitePress Site",
   head: [
@@ -31,7 +31,6 @@ export default defineConfig({
         text: '后端学习',
         items: [
           { text: 'Java', link: '/backend/java' },
-          { text: 'Redis', link: '/backend/redis' },
           { text: 'SpringBoot', link: '/backend/spring' },
           { text: 'Mybatis', link: '/backend/mybatis' },
         ]
@@ -100,7 +99,6 @@ export default defineConfig({
       "/backend/java": set_sidebar("/backend/java"),
       "/backend/spring": set_sidebar("/backend/spring"),
       "/backend/mybatis": set_sidebar("/backend/mybatis"),
-      "/backend/redis": set_sidebar("/backend/redis"),
       "/database": set_sidebar("/database"),
     },
     socialLinks: [
