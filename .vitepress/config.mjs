@@ -7,11 +7,11 @@ export default defineConfig({
   title: "星梦启航",
   description: "A VitePress Site",
   head: [
-    ['link', { rel: 'icon', href: '/vitepress2.0/image/lemon.png' }]
+    ['link', { rel: 'icon', href: 'https://github.com/linchuxu/vitepress2.0/blob/master/image/linchuxu.jpg' }]
   ],
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/vitepress2.0/image/lintongxue.jpg',
+    logo: 'https://github.com/linchuxu/vitepress2.0/blob/master/image/linchuxu.jpg',
     nav: [
       {
         text: 'Home',
@@ -102,7 +102,7 @@ export default defineConfig({
       "/database": set_sidebar("/database"),
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/vuejs/vitepress' }
+      { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' }
     ],
     footer: {
       message: 'Released under the MIT License.',

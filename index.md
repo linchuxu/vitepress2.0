@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 
-      src: image\computer.png
+      src: https://github.com/linchuxu/vitepress2.0/blob/master/image/computer.png
     title: 学习记录
     details: Lorem ipsum dolor sit amet
     link: 
