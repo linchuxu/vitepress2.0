@@ -37,6 +37,7 @@ export default defineConfig({
       },
       { text: '网络工程', link: '/network' },
       { text: '数据库', link: '/database' },
+      { text: '教程', link: '/course' },
     ],
     //本地搜索
     // 设置搜索框的样式
@@ -100,6 +101,7 @@ export default defineConfig({
       "/backend/spring": set_sidebar("/backend/spring"),
       "/backend/mybatis": set_sidebar("/backend/mybatis"),
       "/database": set_sidebar("/database"),
+      "/course": set_sidebar("/course"),
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' }
