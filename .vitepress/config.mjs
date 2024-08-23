@@ -10,7 +10,7 @@ export default defineConfig({
     ['link', { rel: 'icon', href: 'https://github.com/linchuxu/vitepress2.0/blob/master/image/linchuxu.jpg' }]
   ],
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+
     logo: 'https://github.com/linchuxu/vitepress2.0/blob/master/image/linchuxu.jpg',
     nav: [
       {
