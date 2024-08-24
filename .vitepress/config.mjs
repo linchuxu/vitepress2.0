@@ -104,7 +104,8 @@ export default defineConfig({
       "/course": set_sidebar("/course"),
     },
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' }
+      { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' },
+      { icon: '🌎', link: 'https://linchuxu.us.kg/#/side' },
     ],
     footer: {
       message: 'Released under the MIT License.',
