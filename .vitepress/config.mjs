@@ -38,6 +38,7 @@ export default defineConfig({
       { text: '网络工程', link: '/network' },
       { text: '数据库', link: '/database' },
       { text: '教程', link: '/course' },
+      { text: '资源导航', link: 'https://linchuxu.us.kg/#/side' },
     ],
     //本地搜索
     // 设置搜索框的样式
@@ -105,7 +106,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' },
-      { icon: '📘', link: 'https://linchuxu.us.kg/#/side' },
+      { icon: "📘", link: 'https://linchuxu.us.kg/#/side' },
     ],
     footer: {
       message: 'Released under the MIT License.',
