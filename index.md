@@ -19,7 +19,7 @@ hero:
 
 features:
   - icon: 
-      src: public/computer.png
+      src: /computer.png
     title: 学习记录
     details: Lorem ipsum dolor sit amet
     link: 
