@@ -105,7 +105,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' },
-      { icon: '🌎', link: 'https://linchuxu.us.kg/#/side' },
+      { icon: '📘', link: 'https://linchuxu.us.kg/#/side' },
     ],
     footer: {
       message: 'Released under the MIT License.',
