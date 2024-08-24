@@ -7,11 +7,11 @@ export default defineConfig({
   title: "星梦启航",
   description: "A VitePress Site",
   head: [
-    ['link', { rel: 'icon', href: 'https://github.com/linchuxu/vitepress2.0/blob/master/image/linchuxu.jpg' }]
+    ['link', { rel: 'icon', href: 'https://iconfont.alicdn.com/p/illus_3d/file/CfQEcKFxiKhC/d0f30eb9-1cbe-40e4-9002-38550a8ed7e7.png' }]
   ],
   themeConfig: {
 
-    logo: 'https://github.com/linchuxu/vitepress2.0/blob/master/image/linchuxu.jpg',
+    logo: 'https://iconfont.alicdn.com/p/illus_3d/file/CfQEcKFxiKhC/d0f30eb9-1cbe-40e4-9002-38550a8ed7e7.png',
     nav: [
       {
         text: 'Home',
