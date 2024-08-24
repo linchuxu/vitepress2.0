@@ -7,7 +7,7 @@ hero:
   text: "A Software Student"
   tagline: Becoming A Software Engineer
   image:
-       src: /a7791a70-c673-4ab7-a8ee-0abb4f58c03a.blend
+       src: /lin.png
        alt: avatar
   actions:
     - theme: brand
