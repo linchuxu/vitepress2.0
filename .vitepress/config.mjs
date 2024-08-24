@@ -7,6 +7,7 @@ export default defineConfig({
   title: "星梦启航",
   description: "A VitePress Site",
   head: [
+    // ['script', { src: 'https://iconfont.alicdn.com/p/illus_3d/file/CfQEcKFxiKhC/d0f30eb9-1cbe-40e4-9002-38550a8ed7e7.png' }],
     ['link', { rel: 'icon', href: 'https://iconfont.alicdn.com/p/illus_3d/file/CfQEcKFxiKhC/d0f30eb9-1cbe-40e4-9002-38550a8ed7e7.png' }]
   ],
   themeConfig: {
@@ -106,7 +107,7 @@ export default defineConfig({
     },
     socialLinks: [
       { icon: 'github', link: 'https://github.com/linchuxu/vitepress2.0' },
-      { icon: "📘", link: 'https://linchuxu.us.kg/#/side' },
+      // { icon: "📘", link: 'https://linchuxu.us.kg/#/side' },
     ],
     footer: {
       message: 'Released under the MIT License.',
