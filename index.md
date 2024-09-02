@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "林同学"
   text: "A Software Student"
-  tagline: Becoming A Software Engineer
+  tagline: Becoming A Software Teacher
   image:
        src: /lin.png
        alt: avatar
@@ -22,7 +22,7 @@ features:
       src: /computer.png
     title: 学习记录
     details: Lorem ipsum dolor sit amet
-    link: 
+    link:  
   - icon: 🚀
     title: 性能优化
     details: Lorem ipsum dolor sit amet
