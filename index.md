@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "林同学"
   text: "A Software Student"
-  tagline: Becoming A Software Teacher
+  tagline: 
   image:
        src: /lin.png
        alt: avatar
